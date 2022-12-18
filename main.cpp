@@ -5,9 +5,9 @@
 #include "TestSort.h"
 
 int main() {
-    //testLinerSerach();
-    testSelectSort();
-
+    // testLinerSerach();
+    // testSelectSort();
+    // testInsertSort();
 
 
     return 0;
